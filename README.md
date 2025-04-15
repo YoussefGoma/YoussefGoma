@@ -1,15 +1,23 @@
-<h1 align="center">Hi 👋, I'm Youssef Goma</h1>
-<h3 align="center">A passionate Python Developer from Egypt</h3>
+# Youssef Goma
 
-- 🌱 I’m currently learning **Data Analysis**
+## 👨‍💻 Software Engineer
 
-- 📫 How to reach me **youssef.goma.k@gmail.com**
+Hello there! I'm Youssef, a Software Engineer passionate about building web applications and APIs. I enjoy working with both frontend and backend technologies to create complete solutions.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/youssef_goma1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="youssef_goma1" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/youssef-goma-83316b17b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="youssef-goma-83316b17b" height="30" width="40" /></a>
-</p>
+### 🛠️ Tech Stack
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> </p>
+- **Frontend**: Angular, React, Vue, HTML/CSS, Bootstrap, tailwind
+- **Backend**: Node.js, Express, Laravel, RESTful APIs
+- **Databases**: MongoDB, SQL Server, MySQL
+
+### 📚 I'm Currently Learning
+
+- Building scalable backend systems
+
+- Enhancing API speed and reliability
+
+### 📫 Get in Touch
+
+- GitHub: [YoussefGoma](https://github.com/YoussefGoma)
+- Dev.to: [dev.to/youssefgoma](https://dev.to/youssefgoma)
+- Email: [Youssef.goma.k@gmail.com](mailto:youssef.goma.k@gmail.com)
